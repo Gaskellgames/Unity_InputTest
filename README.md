@@ -7,8 +7,7 @@ Code created by Gaskellgames. Available to use under MIT Licence
   
 A simple script using Unity's new input system, that can be used to quickly test or prototype user input mechanics
 
-The script allows users to trigger events from the inspector following a user input: Press, Hold, Release
-Contains 1 script: InputTest.
+The script allows users to trigger events from the inspector following a user input: Press, Hold and Release
 
 
 /// Important
